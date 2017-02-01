@@ -1,0 +1,3 @@
+[submodule "mars-client"]
+	path = mars-client
+	url = https://github.com/baldwinjj/mars-client.git
